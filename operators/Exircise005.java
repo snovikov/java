@@ -16,5 +16,6 @@ public class Exircise005 {
     System.out.println("Dog2's name is '" + d2.name + "' and it says '" + d2.say + "'");
   }
 } /* Output:
-true
+Dog1's name is 'spot' and it says 'Ruff!'
+Dog2's name is 'scruffy' and it says 'Wurf!'
 *///:~
