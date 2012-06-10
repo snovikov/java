@@ -1,6 +1,4 @@
-//: control/ListCharacters.java
-// Demonstrates "for" loop by listing
-// all the lowercase ASCII letters.
+//: control/Exircise001.java
 
 public class Exircise001 {
   public static void main(String[] args) {
